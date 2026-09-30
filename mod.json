@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "id": "mobiletapfeedback",
+  "name": "点击反馈与自动拾取",
+  "version": "1.0.0",
+  "author": "本地",
+  "description": "（从「手机操作优化」拆分出来的两个功能）③关卡/章节选择界面点击入口时有压暗+缩放的按压反馈；④图鉴-工具页新增「自动拾取」框，阳光与金币两个独立开关（写入存档，重启保留，并同步场上已生成的阳光/金币）。两个功能各带内部开关，默认全开。",
+  "dependencies": [],
+  "conflicts": [],
+  "provides": {},
+  "overrides": {},
+  "scripts": [],
+  "runtimeAssembly": "Runtime/ModAssembly.dll",
+  "runtimeEntryType": "MobileTapFeedbackEntry",
+  "runtimeApiVersion": 1,
+  "runtimeAssemblyPolicy": "optional",
+  "blueprints": [],
+  "translations": [],
+  "resources": [
+    "Runtime/ModAssembly.dll"
+  ]
+}

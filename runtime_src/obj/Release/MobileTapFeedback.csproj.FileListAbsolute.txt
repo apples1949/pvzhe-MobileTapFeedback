@@ -1,0 +1,10 @@
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\bin\Release\JTYMobileTapFeedback.deps.json
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\bin\Release\JTYMobileTapFeedback.dll
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\obj\Release\MobileTapFeedback.csproj.AssemblyReference.cache
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\obj\Release\MobileTapFeedback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\obj\Release\MobileTapFeedback.AssemblyInfoInputs.cache
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\obj\Release\MobileTapFeedback.AssemblyInfo.cs
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\obj\Release\MobileTapFeedback.csproj.CoreCompileInputs.cache
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\obj\Release\JTYMobileTapFeedback.dll
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\obj\Release\refint\JTYMobileTapFeedback.dll
+C:\Users\txgcs\WorkBuddy\zjb\mod\MobileTapFeedback\runtime_src\obj\Release\ref\JTYMobileTapFeedback.dll
